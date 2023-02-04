@@ -37,7 +37,7 @@ body{
 .elementos{
     display: flex;
     text-decoration: none;
-    justify-content: end;
+    justify-content: center;
     width: 100%;
     gap: 5rem;
     height: 100%;
