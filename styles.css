@@ -9,6 +9,10 @@ a{
     color: #FFFFFF;
 }
 
+img{
+    width: 100%;
+    height: 100%;
+}
 
 body{
     font-family: Arial;
@@ -53,4 +57,74 @@ body{
 
 .nav-elemento:hover{
     background:#ddb892 ;
+}
+
+
+.Heroe{
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+
+#imagen{
+    width: 100%;
+    height: 100%;
+}
+
+
+.botones{
+    font-size: 30px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    background-color: rgba(0, 0 , 0, .7);
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(255, 255 , 255, .6);
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;    
+}
+
+
+.boton{
+    font-size: 30px;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+    font-weight: bold;
+    position:absolute;
+    color:#fff;
+    box-shadow: 0 0 10px rgba(255,255,255,0.6);
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+
+.atras:hover{
+    cursor:pointer;
+    transform:scale(1.2,1.2);
+}
+
+.adelante:hover{
+    cursor:pointer;
+    transform:scale(1.2,1.2);
+}
+
+.atras{
+    left:2%;
+    bottom: 45%;
+}
+
+
+.adelante{
+    right:2%;
+    bottom: 45%;
 }
