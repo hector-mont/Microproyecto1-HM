@@ -29,6 +29,7 @@ body{
     align-items: center;
     background:#b08968;
     list-style: none;
+    height: 10vh;
 
 }
 
@@ -36,12 +37,10 @@ body{
 .elementos{
     display: flex;
     text-decoration: none;
-    cursor: pointer;
     justify-content: end;
     width: 100%;
     gap: 5rem;
     height: 100%;
-    background-color: yellow;
 }
 
 .nav-elemento{
@@ -49,10 +48,9 @@ body{
     display: flex;
     height: 100%;
     font-size: 15px;
-    background-color: red;
+    cursor: pointer;
 }
 
 .nav-elemento:hover{
     background:#ddb892 ;
-
 }
