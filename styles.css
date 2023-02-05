@@ -16,6 +16,7 @@ img{
 
 body{
     font-family: Arial;
+    background-color: #ede0d4;
 }
 
 .logo{
@@ -140,7 +141,9 @@ body{
 
 .bloque{
     display: inline-block;
-    vertical-align: top;
+    vertical-align: top ;
+    list-style: none;
+    border-radius: 5px;
 }
 
 .objetivos{
@@ -149,6 +152,8 @@ body{
     vertical-align: top;
     margin-left: 1em;
     margin-top: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
     font-size: 20px;
 }
 
