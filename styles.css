@@ -128,3 +128,31 @@ body{
     right:2%;
     bottom: 45%;
 }
+
+.Yo{
+    width: 300px;
+    display: inline-block;
+}
+
+#about-me{
+    margin-top: 20px;
+}
+
+.bloque{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.objetivos{
+    display: flex;
+    flex-direction: column;
+    vertical-align: top;
+    margin-left: 1em;
+    margin-top: 1em;
+    font-size: 20px;
+}
+
+.ab-elemento{
+    margin-left: 2em;
+    list-style-type: circle;
+}
