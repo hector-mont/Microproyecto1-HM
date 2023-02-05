@@ -137,7 +137,15 @@ body{
 
 #about-me{
     margin-top: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    height: 36px;
+    width: 160px;
+    margin-bottom: 30px;
 }
+
 
 .bloque{
     display: inline-block;
