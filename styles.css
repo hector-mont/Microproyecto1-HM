@@ -152,6 +152,8 @@ body{
     vertical-align: top ;
     list-style: none;
     border-radius: 5px;
+    border-color: #b08968;
+    border-style: solid;
 }
 
 .objetivos{
