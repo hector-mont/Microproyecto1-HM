@@ -173,7 +173,8 @@ body{
 }
 
 
-#skills{
+
+#experience{
     width: 70%;
     margin-top: 20px;
     border-color: black;
@@ -181,7 +182,52 @@ body{
     border-width: 1px;
     border-radius: 2px;
     height: 36px;
-    width: 80px;
+    width: 205px;
     margin-bottom: 30px;
-    font-size: large;
 }
+
+.bloque-exp{
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    width: 40%;
+    margin-bottom: 30px;
+    vertical-align: bottom;
+}
+
+.informacion{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px; 
+}
+
+.elementos-exp{
+    display: block;
+    gap: 5px;
+}
+
+
+.imagen-proyecto{
+    display: inline-block;
+    width: 200px;
+}
+
+.elemento-exp{
+    list-style-type: circle;
+    margin-left: 2em;
+}
+
+.link-exp{
+    display: block;
+    text-decoration: underline;
+    color: black;
+    margin-top: 10px;
+}
+
+h4{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
+
