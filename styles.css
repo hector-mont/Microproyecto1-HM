@@ -171,3 +171,17 @@ body{
     margin-left: 2em;
     list-style-type: circle;
 }
+
+
+#skills{
+    width: 70%;
+    margin-top: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    height: 36px;
+    width: 80px;
+    margin-bottom: 30px;
+    font-size: large;
+}

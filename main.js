@@ -1,3 +1,5 @@
+/* Hero Js */
+
 let imagenes = ['img/Hero1.jpg','img/Hero2.jpg','img/Hero3.jpg','img/Hero4.jpg'];
 let contador = 0;
 
@@ -33,3 +35,6 @@ if(direccion1=='adelante'){
 }
 
 }
+
+
+
